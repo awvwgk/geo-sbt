@@ -1,6 +1,8 @@
 geo-sbt
 =======
 
+[![Build Status](https://travis-ci.org/pages-themes/hacker.svg?branch=master)](https://travis-ci.org/awvwgk/geo-sbt)
+
 The `geo-sbt` program provides information about a specific molecular
 geometry and some easily obtainable properties.
 
